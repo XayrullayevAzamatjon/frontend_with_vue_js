@@ -27,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+![image](https://github.com/XayrullayevAzamatjon/frontend_with_vue_js/assets/93447604/b5674cdd-bb44-4b7c-a998-6ee9cf6cea8d)
+
