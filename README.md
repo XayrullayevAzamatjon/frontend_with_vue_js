@@ -28,4 +28,6 @@ npm run dev
 npm run build
 ```
 ![image](https://github.com/XayrullayevAzamatjon/frontend_with_vue_js/assets/93447604/b5674cdd-bb44-4b7c-a998-6ee9cf6cea8d)
+![image](https://github.com/XayrullayevAzamatjon/frontend_with_vue_js/assets/93447604/14fffbf7-2b07-4119-bccf-6c2778d1f12f)
+![image](https://github.com/XayrullayevAzamatjon/frontend_with_vue_js/assets/93447604/73f9faaf-704e-4ca0-ad21-994732a8888a)
 
